@@ -1,0 +1,4 @@
+先配置jsp的相关配置
+
+
+注意配置类GlobalConfig，因为是在子模块中，跳转jsp页面显示404，需要在GlobalConfig中配置路径，才能正确跳转

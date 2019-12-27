@@ -1,0 +1,6 @@
+spring:
+  #jsp的相关配置
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
